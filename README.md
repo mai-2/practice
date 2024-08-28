@@ -1,2 +1,2 @@
-https://mai-2.github.io/practice/
+https://mai-2.github.io/practice/  
 デイトラ初級
